@@ -1,0 +1,12 @@
+package-as: AutoRunTurn
+
+move-folders:
+  AutoRunTurn/addons/AutoRunTurn: AutoRunTurn
+
+ignore:
+  - docs
+  - README.md
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
