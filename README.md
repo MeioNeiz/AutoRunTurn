@@ -22,7 +22,7 @@ Use your addon manager (CurseForge, Wago), or unzip a GitHub release into
 
 ## Feedback
 
-Bugs and ideas: [GitHub issues](https://github.com/MeioNeiz/AutoRunTurn/issues)
+Bugs and ideas: [GitHub issues](https://github.com/MeioNeiz/MeioAutoRunTurn/issues)
 
 ## More Meio addons
 

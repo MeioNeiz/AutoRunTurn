@@ -1,11 +1,12 @@
 ## Interface: 16001
-## Title: AutoRunTurn
+## Title: MeioAutoRunTurn
 ## Notes: Strafe keys (A/D) and Left/Right arrows turn instead of strafe while autorunning, out of combat.
 ## Version: 1.0.0
 ## Author: MeioNeiz
-## X-Website: https://github.com/MeioNeiz/AutoRunTurn
+## X-Website: https://github.com/MeioNeiz/MeioAutoRunTurn
 ## X-License: MIT
+## X-Curse-Project-ID: 1829118
 ## Category: Meio
 ## IconTexture: Interface\Icons\Ability_Rogue_Sprint
 
-AutoRunTurn.lua
+MeioAutoRunTurn.lua

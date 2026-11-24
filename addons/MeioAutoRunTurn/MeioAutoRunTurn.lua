@@ -88,4 +88,5 @@ owner:SetScript("OnEvent", function(_, event)
   end
 end)
 
-AutoRunTurn = { IsAutoRunning = function() return autorun end }
+MeioAutoRunTurn = { IsAutoRunning = function() return autorun end }
+AutoRunTurn = MeioAutoRunTurn -- old name, still called by other addons and macros
