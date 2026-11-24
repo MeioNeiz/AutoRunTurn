@@ -6,6 +6,7 @@
 ## X-Website: https://github.com/MeioNeiz/MeioAutoRunTurn
 ## X-License: MIT
 ## X-Curse-Project-ID: 1829118
+## X-Wago-ID: aN0an96j
 ## Category: Meio
 ## IconTexture: Interface\Icons\Ability_Rogue_Sprint
 
