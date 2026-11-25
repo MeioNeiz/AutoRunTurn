@@ -9,8 +9,8 @@
   "gallery": [
     {
       "file": "turning.png",
-      "title": "Turn while autorunning (mockup)",
-      "description": "A drawn mockup from above: autorunning with A held turns you; walking with A held strafes as usual"
+      "title": "Before and after (mockup)",
+      "description": "A drawn mockup from above, autorunning with A held: without the addon you drift diagonally off course; with it you turn and keep running"
     }
   ]
 }
