@@ -4,6 +4,9 @@ Steer with your strafe keys while autorunning: A and D turn you instead of sides
 
 For WoW Forever.
 
+![Mockup, not a game screenshot: seen from above, autorunning with A held curves you to the
+left and you keep running; walking with A held sidesteps you left as usual](docs/turning.png)
+
 ## What it does
 
 While you autorun, the keys you strafe with (A and D, or whatever you bound to Strafe Left
