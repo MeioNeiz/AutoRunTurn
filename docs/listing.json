@@ -1,6 +1,6 @@
 {
   "title": "Meio Auto Run Turn",
-  "summary": "While autorunning, A and D (your strafe keys) turn you instead of sidestepping, so you can steer without the mouse.",
+  "summary": "Turn with A and D while autorunning; they strafe again when you stop.",
   "cfCategory": "Miscellaneous",
   "cfExtra": [],
   "wagoCategories": [
