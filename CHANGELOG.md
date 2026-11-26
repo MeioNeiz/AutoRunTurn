@@ -1,4 +1,8 @@
-# Meio Auto Run Turn
+# Meio Autorun
+
+## 1.0.1
+
+- Now called Meio Autorun in the AddOns list. Nothing else changes
 
 ## 1.0.0
 
